@@ -1,0 +1,3 @@
+in order to tun this algorithm you need to install pygame
+
+pip install pygame
